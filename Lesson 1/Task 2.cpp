@@ -4,14 +4,14 @@ using namespace std;
 
 int main()
 {
-   int a;
+   int fn;
    cout << "Write the first number:";
-   cin >> a;
+   cin >> fn;
 
-   int b;
+   int sn;
    cout << "Write the second number:";
-   cin >> b;
+   cin >> sn;
 
    cout << "Result:";
-    cout << a + b;
+    cout << fn + sn;
 }
