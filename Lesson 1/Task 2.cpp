@@ -13,5 +13,5 @@ int main()
    cin >> sn;
 
    cout << "Result:";
-    cout << fn + sn;
+   cout << fn + sn;
 }
