@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+   
    int fn;
    cout << "Write the first number:";
    cin >> fn;
@@ -14,4 +15,5 @@ int main()
 
    cout << "Result:";
    cout << fn + sn;
+   
 }
