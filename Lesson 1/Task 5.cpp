@@ -13,7 +13,7 @@ int main()
     cout << "Type second number:";
     cin >> sn;
 
-   cout << "Enter operation: ";
+    cout << "Enter operation: ";
     cin >> calculator_demo;
 
     switch (calculator_demo){
